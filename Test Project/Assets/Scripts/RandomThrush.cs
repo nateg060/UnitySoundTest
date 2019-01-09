@@ -16,6 +16,8 @@ public class RandomThrush : UnityEngine.MonoBehaviour
     public float minPitch = .95f;
     public float maxPitch = 1.05f;
 
+    public float suck it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
     // Update is called once per frame
     void Update()
